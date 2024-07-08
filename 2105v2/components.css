@@ -1,0 +1,18 @@
+h1{
+    color: floralwhite;
+    background-color: darkslategrey;
+
+}
+h2{
+    color: cornflowerblue;
+}
+h3{
+    color: brown;
+}
+img{
+    border: 5px solid black;
+}
+a{
+    color: cadetblue;
+    background-color: rgb(3, 3, 62);
+}

@@ -1,0 +1,14 @@
+h1{
+    color: azure;
+    background-color: black;
+}
+h2{
+    color: darkblue;
+}
+a{
+    color: navy;
+    background-color: aqua;
+}
+img{
+    border: 5px solid black;
+}
