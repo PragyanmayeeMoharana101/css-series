@@ -1,0 +1,48 @@
+#animal{
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#flower{
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    margin-top:20px ;
+    margin-left: 300px;
+}
+#fruit{
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+#bird{
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 40%; 
+    margin-top: 20px;
+    margin-left: 1020px;
+}
