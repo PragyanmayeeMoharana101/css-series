@@ -1,0 +1,32 @@
+.all{
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
+    margin-left: 10px ;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 95%;
+}
+h1{
+    color: black;
+    background-color: beige;
+}
+h2{
+    color: darkslategrey;
+}
+h3{
+    color: brown;
+}
+img{
+    border: solid black 3px;
+}
+.link{
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 4px;
+    background-color: skyblue;
+    padding-left: 10px;
+}
