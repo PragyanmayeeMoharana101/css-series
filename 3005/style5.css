@@ -1,0 +1,14 @@
+.choice{
+    border: solid black 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#mychoice{
+    display: flex;
+    justify-content: space-between;
+}
