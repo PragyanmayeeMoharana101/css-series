@@ -1,0 +1,25 @@
+.shoes{
+    border: solid rgb(93, 91, 91) 5px;
+    width: 30%;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+#all{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+h2{
+    color: black;
+}
+h3{
+    color: grey;
+}
