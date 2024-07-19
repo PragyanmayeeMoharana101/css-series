@@ -1,0 +1,14 @@
+.para{
+    width: 60%;
+    border: 1px solid black;
+    height: 300px;
+    overflow: auto;
+}
+h1{
+    text-transform:capitalize;
+    letter-spacing: 10px;
+}
+h1:hover{
+    transform: scale(1.1);
+    transition: 0.5s ease;
+}
