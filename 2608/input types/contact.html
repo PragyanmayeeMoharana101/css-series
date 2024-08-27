@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Details</h1>
+        <div class="content">
+            <p>Please enter your personal details.</p>
+            <div class="elem">
+                <div class="one">
+                    <label for="fname">First name: *</label>
+                    <input type="text" id="fname">
+                </div>
+                <div class="one">
+                    <label for="lname">Last name: *</label>
+                    <input type="text" id="lname">
+                </div>
+                <div class="one">
+                    <label for="gender">gender: </label>
+                    <input type="radio" id="gender" name="gender" />male
+                    <input type="radio" id="gender" name="gender" />female
+                </div>
+                <div class="one">
+                    <label for="street">Street address: </label>
+                    <input type="text" id="street">
+                </div>
+                <div class="one">
+                    <label for="town">Town/city: </label>
+                    <select name="towns" id="towns">
+                        <option value="">select your city</option>
+                        <option value="">Bangluru</option>
+                        <option value="">pune</option>
+                        <option value="">chennai</option>
+                        <option value="">mumbai</option>
+                        <option value="">delhi</option>
+                        <option value="">hyderabad</option>
+                    </select>
+                </div>
+                <div class="one">
+                    <label for="zip">Postcode/zip: </label>
+                    <input type="number" id="zip">
+                </div>
+                <div class="one">
+                    <label for="telephone">Telephone: </label>
+                    <input type="number" id="telephone">
+                </div>
+                <div class="one">
+                    <label for="mobile">Mobile: </label>
+                    <input type="number" id="mobile">
+                </div>
+                <div class="one">
+                    <label for="email">Email address: *</label>
+                    <input type="email" id="email">
+                </div>
+            </div>
+            <div class="end">
+                <p>Fields marked * are require</p>
+                <button>Submit</button>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>
