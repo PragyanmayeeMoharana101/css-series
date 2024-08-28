@@ -1,0 +1,33 @@
+.content{
+    margin-top: 20px;
+    border: 3px solid  darkgray ;
+    background-color: darkgrey;
+    padding: 20px;
+    width: 38%;
+    font-size: 18px ;
+    padding-left: 60px;
+    margin-left: 30%;
+}
+h1{
+    font-size: 30px;
+    border-bottom: 2px solid black;
+    width: 65%;
+}
+label{
+    margin-bottom: 10px;
+}
+form{
+    line-height: 40px;
+    padding-left: 10px;
+}
+#submit{
+    padding: 3px 20px;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    
+}
+#course{
+    padding: 3px 10px;
+}
